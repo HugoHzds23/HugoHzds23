@@ -11,4 +11,5 @@
 
 ![Hugo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoHzds23&theme=dracula)
 
-![Hugohzds GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoHzds23&show_icons=true&theme=radical)
+![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoHzds23&show_icons=true&theme=onedark)
+![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoHzds23&theme=onedark)
